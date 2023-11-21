@@ -1,0 +1,30 @@
+cop;city;country;year;date_start;date_end
+1;Berlin;Germany;1995;1995-03-28;1995-04-07
+2;Geneva;Switzerland;1996;1996-07-08;1996-07-19
+3;Kyoto;Japan;1997;1997-12-01;1997-12-10
+4;Buenos Aires;Argentina;1998;1998-11-02;1998-11-13
+5;Bonn;Germany;1999;1999-10-25;1999-11-05
+6;The Hague;Netherlands;2000;2000-11-13;2000-11-25
+6b;Bonn;Germany;2001;2001-07-17;2001-07-27
+7;Marrakech;Morocco;2001;2001-10-29;2001-11-10
+8;New Delhi;India;2002;2002-10-23;2002-11-01
+9;Milan;Italy;2003;2003-12-01;2003-12-12
+10;Buenos Aires;Argentina;2004;2004-12-06;2004-12-17
+11;Montreal;Canada;2005;2005-11-28;2005-12-09
+12;Nairobi;Kenya;2006;2006-11-06;2006-11-17
+13;Bali;Indonesia;2007;2007-12-03;2007-12-17
+14;Poznan;Poland;2008;2008-12-01;2008-12-12
+15;Copenhaguen;Denmark;2009;2009-12-07;2009-12-18
+16;Cancun;Mexico;2010;2010-11-28;2010-12-10
+17;Durban;South Africa;2011;2011-11-28;2011-12-09
+18;Doha;Qatar;2012;2012-11-26;2012-12-07
+19;Warsaw;Poland;2013;2013-11-11;2013-11-23
+20;Lima;Peru;2014;2014-12-01;2014-12-12
+21;Paris;France;2015;2015-11-30;2015-12-12
+22;Marrakech;Morocco;2016;2016-11-07;2016-11-18
+23;Bonn;Germany;2017;2017-11-06;2017-11-17
+24;Katowice;Poland;2018;2018-12-03;2018-12-14
+25;Madrid;Spain;2019;2019-12-02;2019-12-13
+26;Glasgow;Scotland;2021;2021-10-31;2021-11-12
+27;Charm el-Cheikh ;Egypt;2022;2022-11-06;2022-11-18
+28;Dubaï;EAU;2023;2023-11-30;2023-12-12
